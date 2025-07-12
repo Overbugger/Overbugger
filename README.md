@@ -61,13 +61,10 @@ I'm a passionate backend developer with an intense fascination for everything di
 
 - **Fintech Solutions**: Developing innovative financial technology applications
 - **API Development**: Building robust backend services and microservices
-- **Automation Tools**: Creating scripts and tools to streamline development processes
-
+- 
 ### 🚧 Projects in Development
 
-- **test**: Core programming concepts and experimentation
-- **test2**: Exploring new frameworks and technologies
-- **test3**: Learning and applying new development techniques
+- **MonieJoint**: a microservices-based application that enables users to create and participate in various types of savings groups with customizable payout structures. Basically all joint banking experiences in one place; Rotating Savings (Ajo/Esusu): , Fixed Deposit, Target Savings, Subscription, e.t.c
 
 ---
 
@@ -86,9 +83,8 @@ I'm constantly expanding my knowledge in:
 
 - [ ] Contribute to major open-source projects
 - [ ] Build innovative fintech solutions
-- [ ] Master cloud-native development
-- [ ] Create impactful automation tools
-- [ ] Mentor junior developers
+- [x] Master cloud-native development
+- [x] Mentor junior developers
 
 ---
 
