@@ -61,10 +61,10 @@ I'm a passionate backend developer with an intense fascination for everything di
 
 - **Fintech Solutions**: Developing innovative financial technology applications
 - **API Development**: Building robust backend services and microservices
-- 
+  
 ### 🚧 Projects in Development
 
-- **MonieJoint**: a microservices-based application that enables users to create and participate in various types of savings groups with customizable payout structures. Basically all joint banking experiences in one place; Rotating Savings (Ajo/Esusu): , Fixed Deposit, Target Savings, Subscription, e.t.c
+- **MonieJoint**: A microservices-based application that enables users to create and participate in various types of savings groups with customizable payout structures. Basically all joint banking experiences in one place; Rotating Savings (Ajo/Esusu): , Fixed Deposit, Target Savings, Subscription, e.t.c
 
 ---
 
