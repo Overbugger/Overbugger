@@ -1,35 +1,127 @@
-Hi, I'm Okoro Samuel Chika, I am a Backend developer with an intense fascination of the workings of the everything digital and always looking for opportunities to learn, and improve.
+# 👋 Hi there, I'm Okoro Samuel Chika
 
-🚀 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-Overbugger-181717?style=for-the-badge&logo=github)](https://github.com/Overbugger)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/samuel-okoro-357094290)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel)](https://okoro-portfolio.vercel.app/projects)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:okorosamuelchika@gmail.com)
 
-🌱 Currently learning and experimenting with various programming languages and tools.
-💻 Interested in fintech software development and creating impactful solutions.
-🎯 Goal: To contribute to open-source projects and build innovative applications.
-📍 Based in: [Lagos, Nigeria]
+## 🚀 Backend Developer & Digital Enthusiast
 
-🛠️ Skills
+I'm a passionate backend developer with an intense fascination for everything digital. Always eager to learn, experiment, and build innovative solutions that make a real impact.
 
-Languages: Typescript, Java
-Tools & Technologies: Git, GitHub, Docker, Kubernetes
-Areas of Interest: Web Development, Automation,
+### 🌟 What I Do
 
-📚 My Projects
-Here are some of the projects I'm working on or have worked on:
+- **Backend Development**: Building robust, scalable APIs and services
+- **Fintech Solutions**: Creating impactful financial technology applications
+- **Open Source**: Contributing to and building open-source projects
 
-testA project for testing and experimenting with [add brief description, e.g., "core programming concepts"].
+---
 
-test2Another experimental project focused on [add brief description, e.g., "exploring new frameworks"].
+## 🛠️ Tech Stack
 
-test3A work-in-progress to [add brief description, e.g., "learn and apply new techniques"].
+### **Languages & Frameworks**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-More exciting projects coming soon!
-📊 GitHub Stats
+### **Tools & Technologies**
 
-🤝 Let's Connect!
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-📧 Email: [okorosamuelchika@gmail.com]
-🌐 Website/Portfolio: [https://okoro-portfolio.vercel.app/projects]
+### **Areas of Expertise**
 
-⚡ Fun Fact
-I love building 🐛
+- **Web Development**: Full-stack web applications
+- **API Development**: RESTful and GraphQL APIs
+- **Database Design**: SQL and NoSQL databases
+- **DevOps**: CI/CD, containerization, cloud deployment
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Overbugger&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Overbugger&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Overbugger&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E)
+
+---
+
+## 🎯 Featured Projects
+
+### 🔧 Current Work
+
+- **Fintech Solutions**: Developing innovative financial technology applications
+- **API Development**: Building robust backend services and microservices
+- **Automation Tools**: Creating scripts and tools to streamline development processes
+
+### 🚧 Projects in Development
+
+- **test**: Core programming concepts and experimentation
+- **test2**: Exploring new frameworks and technologies
+- **test3**: Learning and applying new development techniques
+
+---
+
+## 🌱 Learning Journey
+
+I'm constantly expanding my knowledge in:
+
+- **Advanced Backend Patterns**: Microservices, event-driven architecture
+- **Cloud Technologies**: AWS, Azure, Google Cloud Platform
+- **Security**: API security, authentication, authorization
+- **Performance**: Optimization, caching, load balancing
+
+---
+
+## 🎯 Goals
+
+- [ ] Contribute to major open-source projects
+- [ ] Build innovative fintech solutions
+- [ ] Master cloud-native development
+- [ ] Create impactful automation tools
+- [ ] Mentor junior developers
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to:
+
+- **Collaboration** on interesting projects
+- **Mentorship** opportunities
+- **Open source** contributions
+- **Networking** with fellow developers
+
+### 📫 Get in Touch
+
+- **Email**: [okorosamuelchika@gmail.com](mailto:okorosamuelchika@gmail.com)
+- **Portfolio**: [https://okoro-portfolio.vercel.app/projects](https://okoro-portfolio.vercel.app/projects)
+- **Location**: Lagos, Nigeria 🇳🇬
+
+---
+
+## ⚡ Fun Facts
+
+- 🐛 I love building and debugging (hence the username "Overbugger"!)
+- 💡 Always exploring new technologies and frameworks
+- 🎯 Passionate about creating solutions that solve real-world problems
+- 🌍 Committed to contributing to the global developer community
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
+_"The best code is the code that works, but the best code is also the code that others can understand and maintain."_
+
+</div>
