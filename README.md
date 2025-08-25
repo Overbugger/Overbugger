@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Okoro Samuel Chika
+# I'm Okoro Samuel Chika
 
 [![GitHub](https://img.shields.io/badge/GitHub-Overbugger-181717?style=for-the-badge&logo=github)](https://github.com/Overbugger)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/samuel-okoro-357094290)
