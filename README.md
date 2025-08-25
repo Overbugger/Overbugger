@@ -5,9 +5,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel)](https://okoro-portfolio.vercel.app/projects)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:okorosamuelchika@gmail.com)
 
-## 🚀 Backend Developer & Digital Enthusiast
+## 🚀 Backend Developer
 
-I'm a passionate backend developer with an intense fascination for everything digital. Always eager to learn, experiment, and build innovative solutions that make a real impact.
+I'm a passionate backend developer with an intense fascination for everything software. Always eager to learn, experiment, and build innovative solutions that make a real impact.
 
 ### 🌟 What I Do
 
