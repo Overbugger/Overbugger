@@ -1,7 +1,7 @@
 # I'm Okoro Samuel Chika
 
 [![GitHub](https://img.shields.io/badge/GitHub-Overbugger-181717?style=for-the-badge&logo=github)](https://github.com/Overbugger)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/samuel-okoro-357094290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samuel-okoro-357094290)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel)](https://okoro-portfolio.vercel.app/projects)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:okorosamuelchika@gmail.com)
 
